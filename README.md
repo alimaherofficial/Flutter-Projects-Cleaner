@@ -17,4 +17,8 @@ This Python script automates the process of cleaning multiple Flutter projects l
 
 ## Usage
 
-1. Place the script in the parent directory containing all
+1. Place the script in the parent directory containing all your Flutter projects.
+2. Run the script using:
+
+```bash
+python flutter_cleaner.py
