@@ -21,4 +21,4 @@ This Python script automates the process of cleaning multiple Flutter projects l
 2. Run the script using:
 
 ```bash
-python flutter_cleaner.py
+python flutter_clean.py
